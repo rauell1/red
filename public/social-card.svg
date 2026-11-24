@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#09090b"/><stop offset=".58" stop-color="#161216"/><stop offset="1" stop-color="#2a1013"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ef4444" stop-opacity=".24"/><stop offset="1" stop-color="#ef4444" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0v44" fill="none" stroke="#fff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/><circle cx="900" cy="300" r="380" fill="url(#glow)"/>
+  <g transform="translate(866 315)" fill="none" stroke="#ef4444"><circle r="152" stroke-width="2" opacity=".8"/><circle r="122" stroke-width="1" opacity=".45"/><circle r="86" stroke-width="2" opacity=".7"/><path d="M0-196v64M0 132v64M-196 0h64M132 0h64" stroke-width="4"/><path d="m-28-38 56 76m0-76-56 76" stroke="#f59e0b" stroke-width="3"/></g>
+  <path d="M90 105h72v10H90zM90 115v38h10v-38z" fill="#ef4444"/><text x="90" y="245" fill="#94a3b8" font-family="monospace" font-size="18" letter-spacing="5">CODM CREATOR // TIKTOK LIVE</text>
+  <text x="84" y="386" fill="#f8fafc" font-family="Arial,sans-serif" font-size="172" font-weight="900" letter-spacing="-10">RED</text>
+  <text x="94" y="438" fill="#f8fafc" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="2">CALL OF DUTY: MOBILE</text>
+  <text x="94" y="477" fill="#94a3b8" font-family="Arial,sans-serif" font-size="22" letter-spacing="1">COMPETITOR &amp; LIVE ENTERTAINER</text>
+  <text x="94" y="555" fill="#ef4444" font-family="monospace" font-size="20" letter-spacing="3">@NYEKUNDUUU  /  NAIROBI, KE</text>
+  <text x="1100" y="570" fill="#64748b" font-family="monospace" font-size="14" text-anchor="end">R // 01</text>
+</svg>
